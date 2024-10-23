@@ -62,11 +62,17 @@ nav {
   color: var(--white);
 }
 
+.nav__logo img {
+  width: 60px;
+  height: auto;
+  padding: 1px;
+  border: none;
+}
+
 .nav__logo a span {
   padding: 3px 7px;
   margin-inline: 5px;
   font-size: 1rem;
-  background-color: var(--secondary-color);
   border-radius: 100%;
 }
 
